@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "bancor-sdk": "0.2.2",
-    "bignumber.js": "^9.0.0",
+    "bignumber.js": "^9.0.2",
     "lodash": "^4.17.15",
     "svelte-css-vars": "0.0.1",
     "svelte-icons": "^2.1.0",
