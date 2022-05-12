@@ -22,7 +22,7 @@
     "svelte-css-vars": "0.0.1",
     "svelte-icons": "^2.1.0",
     "svelte-select": "3.7.0",
-    "web3": "^1.2.7"
+    "web3": "^1.7.3"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.1.0",
